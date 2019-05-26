@@ -1,0 +1,7 @@
+C:\Users\PAYAL\source\repos\TestConsoleApp1\TestConsoleApp1\bin\Debug\TestConsoleApp1.exe.config
+C:\Users\PAYAL\source\repos\TestConsoleApp1\TestConsoleApp1\bin\Debug\TestConsoleApp1.exe
+C:\Users\PAYAL\source\repos\TestConsoleApp1\TestConsoleApp1\bin\Debug\TestConsoleApp1.pdb
+C:\Users\PAYAL\source\repos\TestConsoleApp1\TestConsoleApp1\obj\Debug\TestConsoleApp1.csprojAssemblyReference.cache
+C:\Users\PAYAL\source\repos\TestConsoleApp1\TestConsoleApp1\obj\Debug\TestConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\PAYAL\source\repos\TestConsoleApp1\TestConsoleApp1\obj\Debug\TestConsoleApp1.exe
+C:\Users\PAYAL\source\repos\TestConsoleApp1\TestConsoleApp1\obj\Debug\TestConsoleApp1.pdb
